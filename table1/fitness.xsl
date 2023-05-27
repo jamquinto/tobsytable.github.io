@@ -71,8 +71,8 @@
 				<section class="table-one">
 					<table border="1" class="table-one">
 						<div class="buttons">
-							<a href="http://127.0.0.1:5500/index.html">Go Back</a>
-							<a href="http://127.0.0.1:5500/table2/basketball.xml">Next Table</a>
+							<a href="index.html">Go Back</a>
+							<a href="table2/basketball.xml">Next Table</a>
 						</div>
 						<div class="content">
 							<h1>List of Fitness Products</h1>
