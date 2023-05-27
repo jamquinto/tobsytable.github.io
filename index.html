@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    
+    <title>Toby's Sports</title>
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="header">
+        <a href="#" class="logo"><img src="images/logotobys.png" alt=""></a>
+    </header>
+    <!-- HOME SECTION -->
+    <section class="table_links">
+        <div class="table_content">
+            <h2>TABLE FOR <span class="auto-type"></span></h2>
+            <div class="cards">
+                <div class="card">
+                    <div class="top">FITNESS</div>
+                    <img src="images/fit png.png" alt="" class="fit1">
+                    <a href="table1/fitness.xml">CLICK</a>
+                </div>
+                <div class="card">
+                    <div class="top">BASKETBALL</div>
+                    <img src="images/basketball.png" alt="" class="bas1">
+                    <a href="table2/basketball.xml">CLICK</a>
+                </div>
+                <div class="card">
+                    <div class="top">RUNNING</div>
+                    <img src="images/run.png" alt="" class="run1">
+                    <a href="table3/running.xml">CLICK</a>
+                </div>
+                <div class="card">
+                    <div class="top">SPORTS</div>
+                    <img src="images/sport1.png" alt="" class="sport1">
+                    <a href="table4/sports.xml">CLICK</a>
+                </div>
+                <div class="card">
+                    <div class="top">PROMOS</div>
+                    <img src="images/sale.png" alt="" class="sales">
+                    <a href="table5/promo.xml">CLICK</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="Creators">
+        <button class="button-92" role="button"><a href="http://127.0.0.1:5500/creator/index.html" target="_blank">CREATORS &rarr;</a></button>
+    </div>
+    <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+    <script>
+        let typed = new Typed(".auto-type",{
+            strings: ["FITNESS","BASKETBALL","RUNNING","SPORTS","PROMOS"],
+            typeSpeed: 150,
+            backSpeed: 150,
+            loop: true
+        })
+    </script>
+</body>
+</html>

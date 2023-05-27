@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="fitness.xsl"?>
+<fitness>
+	<exerciseequipment count="01">
+		<item>Ovicx Q2S Plus Treadmill</item>
+		<description>The Q2S treadmill is a compact, silent yet powerful treadmill that will help you save space in your home.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱30,780.00</price>
+    </exerciseequipment>
+
+	<exerciseequipment count="02">
+		<item>Sole F80 Treadmill</item>
+		<description>The Sole F80 Treadmill has been consistently lauded as one of the best treadmills in the market, and is packed with high quality components and capabilities that can be matched by only a few competitors. Featuring 3.5 HP Motor that guarantees speeds of up to 19 KPH and 15 different levels of incline; it'll surely give you a challenging workout.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱118,140.00</price>
+    </exerciseequipment>
+
+	<exerciseequipment count="03">
+		<item>Core Elliptical Bike SE-159</item>
+		<description>The Core Elliptical cycle SE-159 combines the advantages of a stationary bike with the low-impact, total-body workout of an elliptical trainer. The SE-159 targets many muscle areas, including your legs, arms, and core, with a smooth and natural range of motion thanks to its small size and ergonomic design. </description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱24,480.00</price>
+    </exerciseequipment>
+
+	<exerciseequipment count="04">
+		<item>Core GT-65</item>
+		<description>The Core GT-65 is a budget-friendly treadmill that is perfect for people who prefer light to moderate workouts.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱34,380.00</price>
+    </exerciseequipment>
+
+	<exerciseequipment count="05">
+		<item>Sole F85 2019 Motorized Treadmill</item>
+		<description>The Sole F85 treadmill is simply put the best folding treadmill on the market to date. Upgrades include a stronger 4.0 CHP motor, a reinforced deigned frame for higher user weight capacity, and a detailed 10.1 inches commercial grade TFT LCD display.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱117,600.00</price>
+    </exerciseequipment>
+
+	<accessoriesequipment count="06">
+		<item>Core Yoga Mat</item>
+		<description>The Core Yoga Mat has a stable non-slip surface, keeping you in place in any pose, and with great cushioning to keep you comfortable.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱849.00</price>
+    </accessoriesequipment>
+
+	<accessoriesequipment count="07">
+		<item>Perfect Cooling Towel</item>
+		<description>Made from hyper-evaporative material that retains water while remaining dry to the touch. When wet, the towel becomes cooler than the outside air and provides relief.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱350.00</price>
+    </accessoriesequipment>
+
+	<accessoriesequipment count="08">
+		<item>PTP Powertube Elite Ultra Light PTP E1</item>
+		<description>Whether your goal is to achieve gentle toning, flexibility or simply recover from a past injury, the Pink PTP PowerTube represents a great starting point to build your very own resistance training system and train anywhere.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱435.00</price>
+    </accessoriesequipment>
+
+	<accessoriesequipment count="09">
+		<item>adidas Hardware Weightlifting Belt</item>
+		<description>Enhancing comfort through stability, the Velcro strap and off-centred buckle lever the belt into position for un-restricted form in every movement.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱1,050.00</price>
+    </accessoriesequipment>
+
+	<accessoriesequipment count="10">
+		<item>Core Rubber Hex Dumbbell</item>
+		<description>The weight features a solid cast-iron core for high-quality strength and reliable stability from one workout to the next.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱465.00</price>
+    </accessoriesequipment>
+
+	<accessoriesequipment count="11">
+		<item>Core Gym Ball</item>
+		<description>The Core Gym Ball is designed to improve your core strength, balance, flexibility, and posture. It helps strengthen and tone your core with a range of stability exercises.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱1,999.00</price>
+    </accessoriesequipment>
+
+	<accessoriesequipment count="12">
+		<item>Core Ab Wheel</item>
+		<description>The Core Ab Wheel is designed to develop total core strength, and will help engage and activate your core muscles.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱799.00</price>
+    </accessoriesequipment>
+
+	<accessoriesequipment count="13">
+		<item>Core Push-Up Bars</item>
+		<description>The Core Push Up Bars will enhance each repetition and deepen your push-ups for more effective training.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱1,100.00</price>
+    </accessoriesequipment>
+
+	<accessoriesequipment count="14">
+		<item>Core Adjustable Incline Push up Bars</item>
+		<description>The incline design will help reduce pain and discomfort in your wrists for a more optimal push-up position, to reduce your risk of injury. Incline push-ups take some of the pressure off your arms and shoulders to give you a solid chest workout.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱965.00</price>
+    </accessoriesequipment>
+
+	<accessoriesequipment count="15">
+		<item>Core Step Bench</item>
+		<description>The Core Step Bench works as an aerobic step, plyometric platform, and adjustable strength training bench. Ideal for home cardio, strength, and toning workouts.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱9,899.00</price>
+    </accessoriesequipment>
+
+	<gearequipment count="16">
+		<item>2XU Men's Accelerate Compression Tights with Storage</item>
+		<description>Graduated compression promotes circulation for an efficient warm-up and a faster recovery post-exercise.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱3,706.50</price>
+    </gearequipment>
+
+	<gearequipment count="17">
+		<item>2XU Men's Accelerate Comp Shorts G2</item>
+		<description>Designed with a mesh gusset for better breathability during workouts. Paired with a jacquard waistband for ultimate comfort and ideal for wearing as a base layer.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱2,236.50</price>
+    </gearequipment>
+
+	<gearequipment count="18">
+		<item>Nike Everyday Cushioned Training Crew Socks</item>
+		<description>The thick terry sole gives you extra comfort for footdrills and lifts, while a ribbed arch band wraps your midfoot for a supportive feel.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱676.00</price>
+    </gearequipment>
+
+	<gearequipment count="19">
+		<item>Nike Men's Dri-FIT Fitness T-Shirt</item>
+		<description>Our sweat-wicking tee keeps it smooth and comfortable while celebrating the Swoosh with a woven graphic on the chest and an oversized graphic on the back.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱976.50</price>
+    </gearequipment>
+
+	<gearequipment count="20">
+		<item>2XU Women's Mid-Rise Compression Tight</item>
+		<description>The 2XU Mid-Rise Compression Tights are a versatile and essential piece for any activity or post exercise recovery. These graduated tights are breathable and lightweight, yet supportive to major muscles.</description>
+		<shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱3,706.50</price>
+    </gearequipment>
+</fitness>

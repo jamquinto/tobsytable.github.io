@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="running.xsl"?>
+<running>
+	<productshoes count="01">
+		<item>Saucony Men's Kinvara 14 Running Shoes</item>
+		<description>Go the distance faster than ever in the new Kinvara 14. 
+		Tailored with a light-than-ever feel, it's got enough PWRRUN foam cushioning 
+		and security to handle an extra mile or ten.</description>
+		<shoesize>7, 7.5, 8, 8.5, 9, 9.5</shoesize>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱5,196.00</price>
+	</productshoes>
+	<productshoes count="02">
+		<item>Saucony Men's Endorphin Shift 3 Running Shoes</item>
+		<description>Stacked with PWRRUN cushioning for comfort,
+		it uses enough foam to help you transition effortlessly from week 
+		to weekend. This is a shoe that can keep up no matter the workout.</description>
+		<shoesize>7, 7.5, 8, 8.5, 9, 9.5</shoesize>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱6,476.00</price>
+	</productshoes>
+	<productshoes count="03">
+		<item>Nike Men's Juniper Trail 2 Next Nature Trail Running Shoes</item>
+		<description>Durable material on top and tough traction on the bottom give you a consistent, 
+		confident ride for those off-road runs calling your name. It's built for earthy terrain and 
+		unbeaten paths, with reliable traction that'll help keep you on course.</description>
+		<shoesize>9, 9.5, 10</shoesize>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱2,866.00</price>
+	</productshoes>
+	<productshoes count="04">
+		<item>Adidas Men's Alpha Prime Green Boost Running Shoes</item>
+		<description> A breathable knit upper meets an energy-returning 
+		adidas BOOST midsole to keep your steps light. So after racing through your day, 
+		they'll bring you back to centre.</description>
+		<shoesize>8, 8.5, 9, 9.5, 10, 10.5</shoesize>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱5,850.00</price>
+	</productshoes>
+	<productshoes count="05">
+		<item>Nike Men's React Infinity 3 Road Running Shoes</item>
+		<description>he springy responsiveness will surprise you too, 
+		adding an element of pure speed to 1 of our most tested shoes 
+		to help you go longer, faster and farther than ever. 
+		For this version, we updated the design of our iconic logo and added fresh colors.</description>
+		<shoesize>7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 12, 13</shoesize>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱5,850.00</price>
+	</productshoes>
+	
+	<productbuttons count="06">
+		<item>Nike Women's Tempo Luxe Icon Clash Running Shorts</item>
+		<description>An allover sky graphic motivates the dreamer inside. 
+		The 2-layer design keeps you feeling comfortable and provides easy-access storage.</description>
+		<shoesize>Extra Small</shoesize>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱798.00</price>
+	</productbuttons>
+	<productbuttons count="07">
+		<item>Nike Women's Tempo Luxe Icon Clash</item>
+		<description>An allover sky graphic motivates the dreamer inside. The 2-layer design keeps you feeling comfortable 
+		and provides easy-access storage.</description>
+		<shoesize>Small</shoesize>
+		<details>3-5 Business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱798.00</price>
+	</productbuttons>
+	<productbuttons count="08">
+		<item>Nike Women's Dri-FIT Tempo Icon Clash</item>
+		<description>A houndstooth-inspired print brings confidence 
+		to your stride through the lens of the power suit. It's made with 
+		100% recycled polyester fibers. This product is made with 100% recycled polyester fibers.</description>
+		<shoesize>SOLD OUT</shoesize>
+		<details>3-5 Business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱558.00</price>
+	</productbuttons>
+	<productbuttons count="09">
+		<item>Nike Women's Dri-FIT Tempo Race Running Shorts</item>
+		<description>We add even more ventilation so you can stay cool 
+		when you're going top speed. Better yet, it's made with at least 75% 
+		recycled polyester fibers.</description>
+		<shoesize>Small, Medium, Large</shoesize>
+		<details>3-5 Business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,116.00</price>
+	</productbuttons>
+	<productbuttons count="10">
+		<item>Nike Women's Dri-FIT Tempo Luxe Icon Clash</item>
+		<description>A classic style with pinstripes inspired by power 
+		suits to keep you confident on your run. 2 pockets combine with 
+		smooth, sweat-wicking fabric for a powerful running statement. They're 
+		made with 100% recycled polyester fibers.</description>
+		<shoesize>Small, Medium</shoesize>
+		<details>3-5 Business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱798.00</price>
+	</productbuttons>
+	<productshocks count="11">
+		<item>Nike Everyday Cushion 3-Pair Socks</item>
+		<description>Breathable mesh at the top of the foot for enhanced ventilation.
+		Arch band contours around the foot for a locked-in fit. Cotton/Polyester/Spandex</description>
+		<shoesize>Medium, Large, Extra Large</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱676.00</price>
+	</productshocks>
+	<productshocks count="12">
+		<item>Nike Everyday Cushion 3-Pair Ankle Socks</item>
+		<description>Breathable mesh at the top of the foot for enhanced ventilation.
+		Arch band contours around the foot for a locked-in fit. Cotton/Polyester/Spandex.</description>
+		<shoesize>Medium, Extra Large</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱845.00</price>
+	</productshocks>
+	<productshocks count="13">
+		<item>Nike Men's Everyday Lightweight Training Crew Socks (3 Pairs)</item>
+		<description>Power through your workout with the Nike Everyday Socks. 
+		Soft yarns with sweat-wicking technology help keep your feet comfortable and dry.</description>
+		<shoesize>Medium, Large, Extra large</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱676.00</price>
+	</productshocks>
+	<productshocks count="14">
+		<item>Nike Everyday Plus Cushioned Crew Socks (2 Pairs)</item>
+		<description>Sweat-wicking fabric and breathable yarns at 
+		the top of your foot help keep your feet feeling cool and dry while an arch band provides a snug fit.</description>
+		<shoesize>Medium</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,253.85</price>
+	</productshocks>
+	<productshocks count="15">
+		<item>Nike Everyday Plus Cushioned Crew Socks (2 Pairs)</item>
+		<description>Trail Running sock helps prevent foot blisters during off 
+		road marathons and long-distance runs, as well as protect runners prone to 
+		getting foot blisters at lower mileages.</description>
+		<shoesize>Extra Large</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,253.85</price>
+	</productshocks>
+	
+	<producteye count="16">
+		<item>ZIV RacerX 132</item>
+		<description>he RACE RX series obtains the new technology 
+		patent of American eyeglass structure providing long-term super protection 
+		against different weather conditions.</description>
+		<shoesize>Sold out</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱999.00</price>
+	</producteye>
+	<producteye count="17">
+		<item>ZIV Winner 89</item>
+		<description>The WINNER series offers a unique design of adjustable 
+		rubber foot cover that will never fall off.</description>
+		<shoesize>Sold out</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱999.00</price>
+	</producteye>
+	<producteye count="18">
+		<item>ZIV ZIV1 74</item>
+		<description>With its removable optical inner lens system designed 
+		specifically for Asian facial features it creates a suitable super-wide 
+		view without the dizziness.</description>
+		<shoesize>Sold out</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱999.00</price>
+	</producteye>
+	<producteye count="19">
+		<item>ZIV Race 102</item>
+		<description>The RACE series has an intimate 7 multi-color option 
+		with anti-collision wide lens that makes it a smart choice for comfort.</description>
+		<shoesize>Sold out</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱999.00</price>
+	</producteye>
+	<producteye count="20">
+		<item>ZIV RacerX 131</item>
+		<description>he new technology patent of American eyeglass structure 
+		providing long-term super protection against different weather conditions.</description>
+		<shoesize>Sold out</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱999.00</price>
+	</producteye>
+	<productslides count="21">
+		<item>Nike Women's Victori One Slides</item>
+		<description>its 1-piece foam design feels soft and comfortable 
+		while traction patterns on the sole help with wet surfaces.</description>
+		<shoesize>5,6,7,8,9</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,036.00</price>
+	</productslides>
+	<productslides count="22">
+		<item>Nike Men's Air Max 90 Slides</item>
+		<description>The foam footbed and plush strap lining offer comfort 
+		and support. An embroidered Swoosh and premium materials elevate this slide 
+		into a category all its own.</description>
+		<shoesize>6,7,8,9,10,11,12</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱2,217.00</price>
+	</productslides>
+	<productslides count="23">
+		<item>Nike Women's Victori One Shower Slide</item>
+		<description>Its 1-piece foam design feels soft and comfortable 
+		while traction patterns on the sole help with wet surfaces. They dry quickly too.</description>
+		<shoesize>5,6,7,8,9</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱906.50</price>
+	</productslides>
+	<productslides count="24">
+		<item>Nike Women's Offcourt Duo</item>
+		<description>Its foam footbed feels unbelievably soft while its 
+		plush straps are lined with cloud-like fabric that rolls over the top to help eliminate hotspots.</description>
+		<shoesize>4,5,6,7,8,9</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,516.00</price>
+	</productslides>
+	<productslides count="25">
+		<item>Adidas Adilette Boost Slides</item>
+		<description>These slides feature a full-length, energy-returning 
+		midsole that cradles your foot with supreme cushioning. Classic 3-Stripes on the bandage-style upper show off your adidas style.</description>
+		<shoesize>6,7,8,9,10,11,12</shoesize>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,680.00</price>
+	</productslides>
+</running>

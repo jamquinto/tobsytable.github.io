@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sports.xsl"?>
+<sports>
+	<teamsports count="01">
+		<item>WILSON FIBA 3x3 Game Ball</item>
+		<description>3x3 is the game of choice on playgrounds and courts all over the world. And Wilson has a ball built for the speed and thrill of the game.</description>
+		<size>Size 6 - FIBA Official (28"5)</size>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱2,929.50</price>
+	</teamsports>
+	<teamsports count="02">
+		<item>EZ Life Safety Vest-Small</item>
+		<description>Should fit slightly loose in order to allow water under the front of the jacket so that it can function properly.</description>
+		<size>Chest: 80-90cm/40-50kg</size>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,827.50</price>
+	</teamsports>
+	<teamsports count="03">
+		<item>OOFOS OORIGINAL Thong</item>
+		<description>Significantly more comfort, cushioning and natural articulation
+		37% more impact absorption
+		Longer lasting support and cushioning
+		Arch support for most foot-types
+		Durable wear
+		Machine washable</description>
+		<size>male(4,5,6,7,8,9,10,11,12) female(6,7,8,9,10,11,12,13,14)</size>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱2,595.00</price>
+	</teamsports>
+	<teamsports count="04">
+		<item>OOFOS OOAHH Recovery Slide</item>
+		<description>100% Synthetic. Imported. Synthetic sole.
+		OOfoam Recovery Technology absorbs 37% more impact than traditional footwear foam.
+		Patented footbed cradles your arches to reduce stress on sore feet, ankles, knees and lower back.
+		Biomechanically designed to allow natural motion.</description>
+		<size>male(4,5,6,7,8,9,10,11,12) female(6,7,8,9,10,11,12,13,14)</size>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱2,595.00</price>
+	</teamsports>
+	<teamsports count="05">
+		<item>OOFOS OOLALA Luxe</item>
+		<description>The OOlala Luxe sandal features revolutionary OOfoam™ technology that absorbs 37% more impact than traditional footwear foam materials to reduce the stress on your feet and joints. This technology aids in the recovery process and creates an incredibly comfortable sandal you can wear anywhere. This feminine silhouette has slightly narrow footbed compared to the OOriginal, which compliments every outfit, day or night. Our Luxe treatment features hand-painted details that are unique to this OOlala style.</description>
+		<size>male(4,5,6,7,8,9,10,11,12) female(6,7,8,9,10,11,12,13,14)</size>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱2,495.00</price>
+	</teamsports>	
+	<cycling count="06">
+		<item>Keysto Conquest 29'' 30 Speed Mountain Bike</item>
+		<description>FRAME： KEYSTO Alloy- Smooth Welding FORK： Lock- Out Suspension Fork
+		SHIFTER： LTWOO A7 FRONT/READ DERAILLEURE： LTWOO A7 CHAIN： KMC
+		BRAKE： X-Spark Hydraulic Disc RIM： KEYSTO Alloy Double Wall
+		TYRE： CST 29"*2.10" CHAINWHEEL： PROWHEEL
+		HUB： Alloy Double Sealed Bearing SADDLE： KEYSTO Sport
+		HANDLEBAR： KEYSTO Alloy Rise- 800mmSPEED: 30 SPEED</description>
+		<size></size>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱12,371.25</price>
+	</cycling>	
+<cycling count="07">
+		<item>Tobys Pro Cycling Shorts</item>
+		<description>SHOCK ABSORPTION: Stitched 3D padding provides superb impact protection even on long-distance rides.
+		BREATHABLE and LIGHTWEIGHT: 90% Polyester and 10% spandex material provides excellent breathability.
+		SWEAT RESISTANT: Actively wicks away sweat and dissipates heat to keep you dry.
+		NON-SLIP DESIGN: Non-slip elastic bands on the tighs keep shorts in place no matter your movement.</description>
+		<size>S, M, L   </size>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,350.00</price>
+</cycling>
+	<cycling count="08">
+		<item>Keysto Evolution 18 Speed Road Bike</item>
+		<description>COMPONENT: KEYSTO- LTWOO-CST
+		Size: ALLOY 700CC*54 INCHES (MEDIUM)
+		Wheel dia: 700C 5’2” – 5’6” (158-170 CM)
+		Speed: 18 speed
+		Max weight: 120kg./265lbs</description>
+		<size></size>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱14,996.25</price>
+	</cycling>
+	<cycling count="09">
+		<item>Velostand Essential Case</item>
+		<description>Carry your Velostand, smartphone and other valuables in style with our new Essentials Case. Features a water repellant main body with a sealed zipper to keep your valuables protected. The soft divider and zippered pocket keeps coins, cards or tools separate from your phone.</description>
+		<size></size>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱795.00</price>
+	</cycling>
+	<cycling count="10">
+		<item>DTFLY Extreme Folding Bike</item>
+		<description>Compact and adaptable, the DTFLY Extreme folding bike is ideal for both commutes and road trips. This bike is a great option for city people with limited storage space because of its lightweight and sturdy aluminum frame. It can be folded up quickly and stored in compact locations.</description>
+		<size></size>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱8,249.25</price>
+	</cycling>
+	<cycling count="11">
+		<item>Velostand ORIGINAL Bike Stand + Phone attachment (2-in-1 BUNDLE)</item>
+		<description>Don't let your bike have all fun! This 2-1 Bundle gives you 1 Velostand ORIGINAL Bike Stand  + Phone Attachment so you can take pictures of your bike OR take pictures WITH your bike! Use it as a portable bike stand or a tripod/selfie stand to take your pics while biking, running, etc.</description>
+		<size></size>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱275.00</price>
+	</cycling>
+	<cycling count="12">
+		<item>Velostand ORIGINAL + XL + PHONE attachment (3-in-1 BUNDLE)</item>
+		<description>Velostand's most popular product, the COMPLETE 3-1 Bundle gives you 2 Velostands (1 ORIGINAL and 1 XL) PLUS the Phone Attachment. Allows you to STAND your bike and PROP-UP your phone at the same time. Use it as a portable tripod/selfie-stand to take pictures with your bike.</description>
+		<size></size>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱465.00</price>
+	</cycling>
+	<cycling count="13">
+		<item>Hornets Bike Helmet 27V</item>
+		<description></description>
+		<size>S, M, L   </size>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,250.00</price>
+	</cycling>
+	<cycling count="14">
+		<item>Trinx C782 27.5 Hydra -24 Speed</item>
+		<description>For thrill-seekers, Trinx C782 27.5 Hydra -24 Speed is a high-performance mountain bike. This bike is made for speed and agility on the trails with 24-speed Shimano shifters, hydraulic disc brakes, and a light aluminum frame. The suspension fork dampens shocks and bumps for a smooth ride while the 27.5-inch wheels offer outstanding traction and stability. Trinx C782 27.5 Hydra -24 Speed is the ideal option for you if you're looking for a dependable and potent mountain bike that can handle any terrain.</description>
+		<size></size>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱10,875.00</price>
+	</cycling>
+	<cycling count="15">
+		<item>Phantom Blast 26”- 1x7 Speed</item>
+		<description>Frame : Phantom Alloy Frame Fork : Phantom Rigid Fork
+		Shifter : Shimano  Revo Shift Rear derailleur : Shimano Tourney
+		Brake : Winzip Mechanical Disc Brake Tyre : Chaoyang 26” * 4.9”
+		Extra: Free Bicycle Helmet</description>
+		<size></size>
+		<details>3-5 business days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱11,700.00</price>
+	</cycling>
+	<boxing count="16">
+		<item>Titans Pro Style Competition Boxing Gloves</item>
+		<description>Genuine Leather (Buffalo Leather)
+		High Performance Gloves
+		High density European PU Mold Padding
+		Velcro Strap to Support the wrist</description>
+		<size>10oz, 12oz, 14oz, 16oz</size>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱2,335.50</price>
+	</boxing>
+	<boxing count="17">
+		<item>Titans Gel Handwraps</item>
+		<description>Superior Protection and Performance
+		Comfortable and Compact resistant wrap
+		Hook and Loop attachment
+		Genuine Leather (Buffalo Hide)
+		High density European PU Mold Padding</description>
+		<size>S, M, L, XL</size>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,215.00</price>
+	</boxing>
+	<boxing count="18">
+		<item>Titans Speed Wraps</item>
+		<description>Speedwraps infused with more than .5” of knuckle and fist shock-suppression foam that has excellent security and support that added to our traditional hand wraps.</description>
+		<size>S, M, L, XL</size>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱742.50</price>
+	</boxing>
+	<boxing count="19">
+		<item>Titans Handwraps</item>
+		<description>This is ideal for the professionals or amateurs in boxing, kickboxing, Muay Thai, or Mixed martial arts.</description>
+		<size>S, M, L, XL</size>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱292.50</price>
+	</boxing>
+	<boxing count="20">
+		<item>LONSDALE Wrist Grips</item>
+		<description>The Lonsdale Wrist Grip is a pack of two that have soft padded handles for added comfort and are perfect for adding into your exercise regime. These wrist grips are designed to increase hand strength, toning forearms, fingers and hand muscles.</description>
+		<size></size>
+		<details>3-5 Business Days</details>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱206.50</price>
+	</boxing>
+</sports>

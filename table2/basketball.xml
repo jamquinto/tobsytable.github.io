@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="basketball.xsl"?>
+<basketball>
+    <basketballshoes count="01">
+        <product>adidas Men's D Rose Son of Chi II Basketball Shoes</product>
+        <sizes>US SIZE:   7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12</sizes>
+        <description>Elevate your game with these Derrick Rose shoes from adidas Basketball. They have a lightweight textile upper that combines with a Bounce midsole to help you take every step at top speed. The herringbone-patterned rubber outsole adds traction and durability. A D-Rose logo and signature graphics shout out the story of one of the most unique players in basketball history.</description>
+        <shipping>3-5 business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱5,500.00</price>
+    </basketballshoes>
+
+    <basketballshoes count="02">
+        <product>KD Trey 5 X EP Basketball Shoes</product>
+        <sizes>US SIZE:   7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 13</sizes>
+        <description>With its lightweight upper and plush support system, the KD Trey 5 X can help you float like KD, waiting for the perfect moment to drive to the hoop. A secure midfoot strap is suited for scoring binges and defensive stands, so that you can lock in and keep winning. This version is made for outdoor court use with its extra-durable rubber outsole.</description>
+        <shipping>3-5 Business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱4,795.00</price>
+    </basketballshoes>
+
+    <basketballshoes count="03">
+        <product>Nike Men's Zoom LeBron NXXT Gen EP Basketball Shoes</product>
+        <sizes>US SIZE   7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, </sizes>
+        <description>Whether you’re a dunk contest-like leaper or a below-the-rim wonder roaming the baseline, feel faster, lower to the court and assured in the LeBron NXXT Gen. We specifically tailored it to meet the demands of today’s fast-paced game, so that you can stay ahead of the opposition with your speed and force in all directions.</description>
+        <shipping>3-5 Business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱8,895.00</price>
+    </basketballshoes>
+
+    <basketballshoes count="04">
+        <product>Nike Men's Giannis Immortality 2 Basketball Shoes</product>
+        <sizes>US SIZE   7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 13</sizes>
+        <description>Morph into all-timer with the Giannis Immortality 2. A plush foam package combined with a more focused fit in the midfoot in a super lightweight design means you can maintain a high level of intensity and focus when victory hangs in the balance—just like Giannis in the clutch.</description>
+        <shipping>3-5 Business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱4,095.00</price>
+    </basketballshoes>
+
+    <basketballshoes count="05">
+        <product>Zion 2 PF Basketball Shoes</product>
+        <sizes>US SIZE   7.5, 8, 8.5, 9, 9.5, 10, 10.5</sizes>
+        <description>Channel new levels of speed and power in shoes designed for Zion and built for ballers at any level. An adjustable strap up top helps lock in your foot, while a firm midsole supports high-paced play. Plus, the Zion 2 has more Nike Air cushioning than its predecessor, so you'll get into the clouds easier and land softer. Make this your #1 pick for the court.</description>
+        <shipping>3-5 Business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱6,895.00</price>
+    </basketballshoes>
+
+	<basketballshoes count="06">
+        <product>LeBron Big Kids Witness 7 Basketball Shoes</product>
+        <sizes>US SIZE:   7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13</sizes>
+        <description>When opponents face LeBron James, they know they're in trouble. Feel like one of the game's greats with lightweight support in all the right places so you can move confidently with every run and jump. A big Max Air unit brings the cushioning you need to fly around the court, while repping everything LeBron.</description>
+        <shipping>3-5 Business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱4,045.00</price>
+    </basketballshoes>
+
+	<basketballshoes ccount="07">
+        <product>Nike Men's Air Max Impact 4 Basketball Shoes</product>
+        <sizes>US SIZE   7.5, 8.5, 9, 9.5, 10, 10.5, 11, 12</sizes>
+        <description>Elevate your game and your hops. Charged with Max Air cushioning in the heel, this lightweight, secure shoe helps you get off the ground confidently and land comfortably. Plus, rubber wraps up the sides for added durability and stability.</description>
+        <shipping>3-5 Business Days</shipping>
+        <transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+        <price>₱4,795.00</price>
+    </basketballshoes>
+
+
+	<ballsequipment count="08">
+		<product>Spalding NBA Layup</product>
+		<sizes>7</sizes>
+		<description>Durable Rubber Material, Small NBA Branding Logo, Outdoor basketball, Size 7</description>
+		<shipping>3-5 Business Days</shipping>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱799.00</price>
+	</ballsequipment>
+
+	<ballsequipment count="09">
+		<product>Spalding TF-150</product>
+		<sizes>7</sizes>
+		<description>Replica of the official game ball | Innovative Panel Design | Two-tone cover | Perfect solution regarding durability and game characteristics</description>
+		<shipping>3-5 Business Days</shipping>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱729.75</price>
+	</ballsequipment>
+
+	<ballsequipment count="10">
+		<product>Molten B7G3800 Size 7 Basketball</product>
+		<sizes>7</sizes>
+		<description>Signature 12 panel design. Composite Leather. Nylon wound. Increase color contrast for better visibility. Official Size 7. FIBA Approved.</description>
+		<shipping>3-5 Business Days</shipping>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱2,050.00</price>
+	</ballsequipment>
+
+	<ballsequipment count="11">
+		<product>Wilson NBA Team Tribute New York Knicks Basketball Size 7</product>
+		<sizes>7</sizes>
+		<description>NBA Team Tribute combines performance with fanhood as this basketball celebrates the fans of the game with all team logo's while giving you performance.</description>
+		<shipping>3-5 Business Days</shipping>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱993.65</price>
+	</ballsequipment>
+
+	<basketballhoops count="12">
+		<product>Lifetime Shatter Proof 48" Basketball Set</product>
+		<sizes>48 inches</sizes>
+		<description>The Lifetime Impact Youth Basketball Set is a 48-inch steel-framed shatter proof fusion Backboard made of Makrolon Polycarbonate making it virtually unbreakable and 30x stronger than acyrlic. The steel frame gives added rigidity for improved rebound. It has an 18-inch Slam-It Rim with double compression springs and a 70-gram all-weather net. Speed Shift Height: 8-10 feet</description>
+		<shipping>3-5 Business Days</shipping>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱16,162.75</price>
+	</basketballhoops>
+
+	<basketballhoops count="13">
+		<product>Lifetime Impact Youth 32" Basketball Set</product>
+		<sizes>32 inches</sizes>
+		<description>The Lifetime Impact Youth Basketball Set is a 32-inch impact backboard molded of high density polythylene (HDPE). This backboard can withstand the different elements of nature and the toughest plays of the game. Graphics are screen printed with UV-protected inks offering fade resistant color. It also has an orange classic rim with a 50-gram all-weather net. Telescoping height adjustment: 6.5-7.5ft.</description>
+		<shipping>3-5 Business Days</shipping>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱6,795.75</price>
+	</basketballhoops>
+
+	<basketballhoops count="14">
+		<product>Spalding 32" Sketch Series Composite Fan</product>
+		<sizes>32 inches</sizes>
+		<description>Board size - 32" (81.28cm) Board type - Composite Height adjustment - 7.5' to 10' (2.28 to 3.05 m) Lift type - Telescoping Rim - Standard Pole - 3" (7.62 cm) Run off from base to rim .77" (1.95 cm)</description>
+		<shipping>3-5 Business Days</shipping>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱10,995.00</price>
+	</basketballhoops>
+
+	<basketballapparel count ="15">
+		<product>adidas Men's D.O.N Dream Basketball Shorts</product>
+		<sizes>US SIZE: XS, S, M, L, XL</sizes>
+		<description>These adidas basketball shorts feature a colorful, exclusive logo for a Donovan Mitchell.</description>
+		<shipping>3-5 Business Days</shipping>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,470.00</price>
+	</basketballapparel>
+	<basketballapparel count ="16">
+		<product>Nike Men's Dri-FIT Basketball Shorts</product>
+		<sizes>US SIZE: S, M, L, XL</sizes>
+		<description>The Nike Dri-FIT Basketball Shorts are fundamental for your game. They're light, loose fitting, and hit at the knee, with sweat-wicking technology to help you stay comfortable.</description>
+		<shipping>3-5 Business Days</shipping>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,255.50</price>
+	</basketballapparel>
+	<basketballapparel count ="17">
+		<product>Nike Men's Dri-FIT Basketball T-Shirt</product>
+		<sizes>US SIZE: S, M, L, XL</sizes>
+		<description>For those making the basketball court their playground, this sweat-wicking tee keeps hard play relaxed and comfortable. A chain graphic gives it up for those making it rain and earning their spot on the hardwood.</description>
+		<shipping>3-5 Business Days</shipping>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,256.50</price>
+	</basketballapparel>
+	<basketballapparel count ="18">
+		<product>Nike Men's Dri-FIT Basketball T-Shirt</product>
+		<sizes>US SIZE: XS, S, M, L, XL</sizes>
+		<description>For those making the basketball court their playground, this sweat-wicking tee keeps hard play relaxed and comfortable. A chain graphic gives it up for those making it rain and earning their spot on the hardwood.</description>
+		<shipping>3-5 Business Days</shipping>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,256.50</price>
+	</basketballapparel>
+	<basketballapparel count ="19">
+		<product>Nike Men's Sportswear Club Fleece</product>
+		<sizes>US SIZE: S, M, L, XL</sizes>
+		<description>Made from soft cotton jersey, the Nike Sportswear Shorts are perfect for all-day wear. And with an adjusted rise and a shorter inseam than previous versions, they're more comfortable than ever.</description>
+		<shipping>3-5 Business Days</shipping>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱1,116.00</price>
+	</basketballapparel>
+	<basketballapparel count ="20">
+		<product>Nike NBA Miami Heat Elite Crew Socks</product>
+		<sizes>US SIZE: XS, S, M, L, XL</sizes>
+		<description>he Nike NBA Miami Heat Elite Crew Socks are made using premium sweat-wicking yarns, with an arch band for support and cushioning in high-impact areas. Authentic NBA details connect to your favorite team.</description>
+		<shipping>3-5 Business Days</shipping>
+		<transaction>GCASH, MAYA, MASTERCARD, BDO, TENDOPAY, COD</transaction>
+		<price>₱253.50</price>
+	</basketballapparel>
+</basketball>
+
+

@@ -1,0 +1,496 @@
+<?xml version = "1.0" encoding ="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="promo.xsl"?>
+
+<promo>
+	<product>
+		<name>Adidas Men's D Rose Son of Chi II Basketball Shoes</name>
+		<brand>Adidas</brand>
+		<size>7.5, 8, 8.5, 9, 10, 10.5, 11, 12</size>
+		<description>Elevate your game with these Derrick Rose shoes from adidas Basketball. They have a lightweight textile upper that combines with a Bounce midsole to help you take every step at top speed. The herringbone-patterned rubber outsole adds traction and durability. A D-Rose logo and signature graphics shout out the story of one of the most unique players in basketball history.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱5,500.00</origprice>
+		<disprice>Sold out</disprice>
+	</product>
+
+	<product>
+		<name>Adidas Men's Extply 2.0 Basketball Shoes</name>
+		<brand>Adidas</brand>
+		<size>8, 8.5, 9, 9.5, 10, 10.5, 11</size>
+		<description>Whether it's in the sound booth or in the last few minutes of crunch time, Damian Lillard always brings his A-game. These adidas basketball shoes invoke Dame's his commitment to honing his craft on the hardwood and in the music studio. Bounce cushioning is soft and springy to put that pep on your step when your team needs it most. Made in part with recycled content generated from production waste, e.g. cutting scraps, and post-consumer household waste to avoid the larger environmental impact of producing virgin content.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱4,500</origprice>
+		<disprice>₱3,600</disprice>
+	</product>
+
+	<product>
+		<name>Adidas Men's Extply 2.0 Basketball Shoes</name>
+		<brand>Adidas</brand>
+		<size>8, 8.5, 9, 9.5, 10, 10.5, 11</size>
+		<description>Whether it's in the sound booth or in the last few minutes of crunch time, Damian Lillard always brings his A-game. These adidas basketball shoes invoke Dame's his commitment to honing his craft on the hardwood and in the music studio. Bounce cushioning is soft and springy to put that pep on your step when your team needs it most. Made in part with recycled content generated from production waste, e.g. cutting scraps, and post-consumer household waste to avoid the larger environmental impact of producing virgin content.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱4,500</origprice>
+		<disprice>₱3,600</disprice>
+	</product>
+
+	<product>
+		<name>Adidas Women's Farm Rio X Vulc Raid3r Skateboarding Shoes</name>
+		<brand>Adidas</brand>
+		<size>5.5, 6, 6.5, 7, 7.5, 8</size>
+		<description>These adidas skater-style shoes bring together the sportswear credentials of adidas with the vibrant flair of Brazilian fashion brand FARM Rio. The brightly patterned canvas upper adds colour to neutral looks, from all-black workout gear to your favourite jeans and tee.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱2,800.00</origprice>
+		<disprice>₱2,016.00</disprice>
+	</product>
+
+	<product>
+		<name>Adidas Women's Farm Rio X Vulc Raid3r Skateboarding Shoes</name>
+		<brand>Adidas</brand>
+		<size>5.5, 6, 6.5, 7, 7.5, 8</size>
+		<description>These adidas skater-style shoes bring together the sportswear credentials of adidas with the vibrant flair of Brazilian fashion brand FARM Rio. The brightly patterned canvas upper adds colour to neutral looks, from all-black workout gear to your favourite jeans and tee.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱2,800.00</origprice>
+		<disprice>₱2,016.00</disprice>
+	</product>
+
+	<product>
+		<name>Zion 2 PF Basketball Shoes</name>
+		<brand>Adidas</brand>
+		<size>7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 12</size>
+		<description>Channel new levels of speed and power in shoes designed for Zion and built for ballers at any level. An adjustable strap up top helps lock in your foot, while a firm midsole supports high-paced play. Plus, the Zion 2 has more Nike Air cushioning than its predecessor, so you'll get into the clouds easier and land softer. Make this your #1 pick for the court.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱6,895.00</origprice>
+		<disprice>Sold out</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Dri-FIT Men's Training T-Shirt</name>
+		<brand>Nike</brand>
+		<size>S, M, L, XL</size>
+		<description>You contain multitudes, and this tee speaks your language. With a relaxed, comfortable fit, it's adorned with a dumbbell lifting a donut to celebrate that complicated combination of exercise and sweets.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱1,395.00</origprice>
+		<disprice>₱1,116.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Dri-FIT Training T-Shirt</name>
+		<brand>Nike</brand>
+		<size>S, M, L, XL</size>
+		<description>You contain multitudes, and this tee speaks your language. With a relaxed, comfortable fit, it's adorned with a dumbbell lifting a donut to celebrate that complicated combination of exercise and sweets.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱1,395.00</origprice>
+		<disprice>₱1,116.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's React Infinity 3 Road Running Shoes</name>
+		<brand>Nike</brand>
+		<size>8, 8.5, 9, 10, 10.5, 11</size>
+		<description>Stay on your feet with soft and supportive cushioning, built to help keep you on the run. A wider forefoot and higher foam stacks provide cushioning to help keep you fresh, giving you the peace of mind to pound the pavement every day. The springy responsiveness will surprise you too, adding an element of pure speed to 1 of our most tested shoes to help you go longer, faster and farther than ever. For this version, we updated the design of our iconic logo and added fresh colors.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱8,095.00</origprice>
+		<disprice>₱6,476.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Tanjun FlyEase Easy On/Off Casual Shoes</name>
+		<brand>Nike</brand>
+		<size>8, 8.5, 9, 10, 10.5, 11, 12</size>
+		<description>Forget the hype. The Tanjun brings you simplicity at its best. Its hidden FlyEase entry system lets you easily slip them on and off—handsfree. The lightweight, airy and comfortable design makes it a go-to for daily wear. Plus, it's made with at least 20% recycled content by weight.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱3,495.00</origprice>
+		<disprice>₱2,796.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Women's Pegasus 40 Road Running Shoes</name>
+		<brand>Nike</brand>
+		<size>5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9</size>
+		<description>A springy ride for every run, the Peg’s familiar, just-for-you feel returns to help you accomplish your goals. This version has the same responsiveness and neutral support you love, but with improved comfort in those sensitive areas of your foot, like the arch and toes. Whether you’re logging long marathon miles, squeezing in a speed session before the sun goes down or hopping into a spontaneous group jaunt, it’s still the established road runner you can put your faith in, day after day, run after run.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱7,395.00</origprice>
+		<disprice>₱5,324.40</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Dri-FIT Woven Training Jacket</name>
+		<brand>Nike</brand>
+		<size>S, M, L, XL</size>
+		<description>Keep your team covered in the Nike Dri-FIT Jacket. Soft woven fabric uses sweat-wicking technology to help keep you covered, cool and comfortable. Customize the colors for your team's signature look. This product is made with 100% recycled polyester fibers.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱2,995.00</origprice>
+		<disprice>₱2,396.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Women's Court Legacy Next Nature Casual Shoes</name>
+		<brand>Nike</brand>
+		<size>5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9</size>
+		<description>Honoring a history rooted in tennis culture, the Nike Court Legacy Next Nature brings you a time-tested staple in a design that's made from at least 20% recycled materials by weight. Its synthetic leather and retro design let you blend sport and fashion. Do good by looking good.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱3,495.00</origprice>
+		<disprice>Sold out</disprice>
+	</product>
+
+	<product>
+		<name>NikeCourt Men's Dri-FIT Tennis Polo</name>
+		<brand>Nike</brand>
+		<size>S, M, L, XL</size>
+		<description>Made from soft knit fabric that's made from 100% recycled polyester fibers, the NikeCourt Dri-FIT Polo is a classic-looking, sweat-wicking court staple. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable. Embroidered logo at the chest.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱1,895.00</origprice>
+		<disprice>₱1,516.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Court Dri-FIT Advantage Tennis Top</name>
+		<brand>Nike</brand>
+		<size>S, M, L</size>
+		<description>Stretchy and breathable, the NikeCourt Dri-FIT Advantage Top will soon be your go-to for fast, fierce matches. Thanks to a new hybrid neckline, you'll get the look of a V-neck with the comfort of a crew. This product is made with at least 75% recycled polyester fibers.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱2,195.00</origprice>
+		<disprice>₱1,756.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Sportswear Bucket Hat</name>
+		<brand>Nike</brand>
+		<size>S/M, M/L, L/XL</size>
+		<description>A washed fabric on the crown of the Nike Sportswear Bucket Hat gives it a soft, well-worn feel. Its unstructured crown and brim offer a laidback look and added coverage from the elements.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱1,045.00</origprice>
+		<disprice>Sold out</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Slim Fit Polo</name>
+		<brand>Nike</brand>
+		<size>S, M, L, XL</size>
+		<description>This isn’t your average polo—it’s The Nike Polo. Every detail, from its innovative, sweat-wicking fabric to the hints of orange that nod to Nike’s original shoebox, has been thoughtfully crafted to meet the needs of the everyday you. The result is a street-ready style that looks as at home on the course or court as it does everywhere else. To top it off, this product is made with 100% sustainable materials—using a blend of both recycled polyester and organic cotton fibers.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱2,795.00</origprice>
+		<disprice>Sold out</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Dri-FIT Pullover Training Hoodie</name>
+		<brand>Nike</brand>
+		<size>S, M, L, XL</size>
+		<description>The Nike Dri-FIT Hoodie is made with sweat-wicking technology helps you stay dry before, during or after your workout. This product is made with 100% sustainable materials, using a blend of both recycled polyester and organic cotton fibers. The blend is at least 10% recycled fibers or at least 10% organic cotton fibers.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱2,795.00</origprice>
+		<disprice>Sold out</disprice>
+	</product>
+
+	<product>
+		<name>Nike Women's Air Max SC Casual Shoes</name>
+		<brand>Nike</brand>
+		<size>5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9</size>
+		<description>With its easy going lines, heritage track look and of course, visible Air cushioning, the Nike Air Max SC is the perfect finish to any outfit. The rich mixture of materials adds depth while making it a durable and lightweight shoe for everyday wear.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱3,895.00</origprice>
+		<disprice>₱2,804.40</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Sportswear Club Tee</name>
+		<brand>Nike</brand>
+		<size>S, M, L, XL</size>
+		<description>The Nike Sportswear Club T-Shirt is made with our everyday cotton fabric and a classic fit for a familiar feel right out of the bag. An embroidered Futura logo on the chest provides a signature Nike look.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱1,045.00</origprice>
+		<disprice>₱836.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Sportswear Heritage86 Futura Washed Cap</name>
+		<brand>Nike</brand>
+		<size></size>
+		<description>Crafted from soft fabric, the Nike Sportswear Heritage86 Futura Washed Hat has a 6-panel design for classic comfort and an adjustable closure for a personalized fit.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱895.00</origprice>
+		<disprice>Sold out</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Los Angeles Lakers Dri-FIT Swingman Jersey Association Edition 22</name>
+		<brand>Nike</brand>
+		<size>S, M, L, XL, 2XL</size>
+		<description>With a white background, the Association Edition Jersey is a common thread shared by every team in the NBA. This Los Angeles Lakers jersey is inspired by what the pros wear on the hardwood, from team colors and graphics to lightweight, sweat-wicking mesh. It helps keep you dry and cool on or off the court while you rep your favorite player and the game you love.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱4,795.00</origprice>
+		<disprice>Sold out</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Dallas Mavericks Dri-FIT NBA Practice T-Shirt</name>
+		<brand>Nike</brand>
+		<size>S, M, L, XL</size>
+		<description>Men's Nike Dri-FIT NBA Practice T-Shirt Step on to the court—or into your day—in the lightweight, breathable comfort of the sweat-wicking Dallas Mavericks T-shirt. With authentic graphics front and center, it matches team-issued gear that players wear in the practice facility.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱1,395.00</origprice>
+		<disprice>Sold out</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Zoom LeBron NXXT Gen EP Basketball Shoes</name>
+		<brand>Nike</brand>
+		<size>8, 8.5, 9, 10, 10.5, 11, 12, 13</size>
+		<description>Whether you’re a dunk contest-like leaper or a below-the-rim wonder roaming the baseline, feel faster, lower to the court and assured in the LeBron NXXT Gen. We specifically tailored it to meet the demands of today’s fast-paced game, so that you can stay ahead of the opposition with your speed and force in all directions.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱8,895.00</origprice>
+		<disprice>Sold out</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Court Vapor Lite 2 Hard Court Tennis Shoes</name>
+		<brand>Nike</brand>
+		<size>8, 8.5, 9, 10, 10.5, 11, 12, 13</size>
+		<description>Simple, but sleek. Subtle yet studded out with playability, speed and support. The Vapor Lite 2 is ready for the court right out of the box and offers comfort for the players who like to do it all. With a familiar, super-comfortable underfoot feeling, they can help you hammer that volley at the net and stay mobile during a long rally with optimal traction. Once your session is complete, it’s comfortable enough to wear walking off the court into wherever your day leads next.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱4,295.00</origprice>
+		<disprice>₱3,436.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Court Vision Low Casual Shoes</name>
+		<brand>Nike</brand>
+		<size>8, 8.5, 9, 10, 10.5, 11</size>
+		<description>In love with the classic look of '80s basketball but craving casual comfort? Meet the Nike Court Vision Low. A vibrant Swoosh logos pop against soft white synthetic leather overlays to give this old-school hoops icon a classic look. A plush, low-cut collar keeps the design feeling sleek, modern and comfortable.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱3,695.00</origprice>
+		<disprice></disprice>
+	</product>
+
+	<product>
+		<name>Nike Everyday Cush Low (3 Pairs)</name>
+		<brand>Nike</brand>
+		<size> M, L, XL</size>
+		<description>Power through your workout with the Nike Everyday Cushioned Socks. The thick terry sole gives you extra comfort for footdrills and lifts, while a ribbed arch band wraps your midfoot for a supportive feel.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱676.00</origprice>
+		<disprice>₱845.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Everyday Cush Low (3 Pairs)</name>
+		<brand>Nike</brand>
+		<size> M, L, XL</size>
+		<description>Power through your workout with the Nike Everyday Cushioned Socks. The thick terry sole gives you extra comfort for footdrills and lifts, while a ribbed arch band wraps your midfoot for a supportive feel.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱676.00</origprice>
+		<disprice>₱845.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Giannis Immortality 2 Basketball Shoes	</name>
+		<brand>Nike</brand>
+		<size>7, 7.5, 8, 8.5, 9, 10, 10.5, 11, 12, 13</size>
+		<description>Morph into all-timer with the Giannis Immortality 2. A plush foam package combined with a more focused fit in the midfoot in a super lightweight design means you can maintain a high level of intensity and focus when victory hangs in the balance—just like Giannis in the clutch.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱4,095.00</origprice>
+		<disprice>Sold out</disprice>
+	</product>
+
+	<product>
+		<name>Nike Women's Mc Trainer 2 Training Shoes</name>
+		<brand>Nike</brand>
+		<size>5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9</size>
+		<description>The Nike MC Trainer 2 can help you shift from circuit training in the weight room to the field turf for quick-twitch conditioning, seamlessly. It’s a multipurpose power that combines versatility, stability and longevity to help you stay locked in on the physical task at hand. From back squats to sprint repeats, it can help support the rigors of your diverse training regimen without having to make a pit stop to grab more gear for your workout.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱3,495.00</origprice>
+		<disprice>₱2,516.40</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Mc Trainer 2 Training Shoes</name>
+		<brand>Nike</brand>
+		<size>8, 8.5, 9, 10, 10.5, 11, 12</size>
+		<description>The Nike MC Trainer 2 can help you shift from circuit training in the weight room to the field turf for quick-twitch conditioning, seamlessly. It’s a multipurpose power that combines versatility, stability and longevity, so that you can stay locked in on the physical task at hand. From back squats to sprint repeats, it can help support the rigors of your diverse training regimen without having to make a pit stop to grab more gear for your workout.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱3,495.00</origprice>
+		<disprice>₱2,796.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Air Max SC Leather Shoes</name>
+		<brand>Nike</brand>
+		<size>8, 8.5, 9, 10, 10.5, 11, 12</size>
+		<description>With its easygoing lines, heritage track look and visible Air cushioning, the Nike Air Max SC is the perfect finish to any outfit. The crisp leather in the upper makes it a durable and lightweight shoe for eve.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱3,995.00</origprice>
+		<disprice>₱3,196.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Women's Icon Classic Sandals</name>
+		<brand>Nike</brand>
+		<size>6, 7, 8</size>
+		<description>Lifted. Classic hoops detailing. Strappy but easy to wear. Check all the boxes in the Nike Icon Classic. Its big, bold midsole wows with comfort. The outsole pattern delivers iconic Air Force 1 vibes, whjle the multiple hook-and-loop straps add a fearless look. Get ready to shine with this new voice in sandal style.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱2,895.00</origprice>
+		<disprice>₱2,084.40</disprice>
+	</product>
+
+	<product>
+		<name>Nike Women's Downshifter 12 Road Running Shoes</name>
+		<brand>Nike</brand>
+		<size>5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9</size>
+		<description>Take those first steps on you running journey in the Nike Downshifter 12. It's got a supportive fit and a stable ride, with a lightweight feel that easily transitions from your workout to hanging out. This one continues our sustainability journey with a design made from at least 20% recycled content by weight. Your trek begins. Lace up and hit the road.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱2,995.00</origprice>
+		<disprice>₱2,156.40</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Air Max Cirro Slides</name>
+		<brand>Nike</brand>
+		<size>8, 9, 10, 11, 12</size>
+		<description>Whether you're hitting the gym or headed to the store, we've created a perfect go-between that delivers quick style and incredible comfort. Large, visible Air in the heel pairs with a comfy foam footbed for a striking statement in comfort.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱2,395.00</origprice>
+		<disprice>₱1,916.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Court Men's Vapor Lite 2 Tennis Shoes</name>
+		<brand>Nike</brand>
+		<size>8, 8.5, 9, 10, 10.5, 11, 12</size>
+		<description>Simple, but sleek. Subtle yet studded out with playability, speed and support. The Vapor Lite 2 is ready for the court right out of the box and offers comfort for the players who like to do it all. With a familiar, super-comfortable underfoot feeling, they can help you hammer that volley at the net and stay mobile during a long rally with optimal traction. Once your session is complete, it’s comfortable enough to wear walking off the court into wherever your day leads next.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱4,295.00</origprice>
+		<disprice>₱3,436.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Asuna 2 Slides Black/Sail</name>
+		<brand>Nike</brand>
+		<size> 9, 10</size>
+		<description>Want to transition effortlessly between work and play? Built to feel good all day, these plush slides use a rugged tread pattern for traction on a variety of surfaces. The new and improved closure hugs the top of your foot just right. Step in, cinch it closed, and get going.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱2,195.00</origprice>
+		<disprice>₱1,756.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Tanjun Ease Casual Shoes</name>
+		<brand>Nike</brand>
+		<size>8, 8.5, 9, 10, 10.5, 11, 12</size>
+		<description>Forget the hype. The Nike Tanjun Ease brings you simplicity at its best. Its hidden FlyEase entry system lets you easily get them on and off, handsfree. The lightweight, airy and comfortable design makes it a go-to for daily wear. And, it's made with at least 20% recycled content by weight.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱3,495.00</origprice>
+		<disprice>₱2,796.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Pegasus 40 Running Shoes</name>
+		<brand>Nike</brand>
+		<size>8, 8.5, 9, 10, 10.5, 11, 12, 13</size>
+		<description>A springy ride for any run, the Peg’s familiar, just-for-you feel returns to help you accomplish your goals. This version has the same responsiveness and neutral support you love, but with improved comfort in those sensitive areas of your foot, like the arch and toes. Whether you’re logging long marathon miles, squeezing in a speed session before the sun goes down or hopping into a spontaneous group jaunt, it’s still the established road runner you can put your faith in, day after day, run after run.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱7,395.00</origprice>
+		<disprice>₱5,916.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Court Air Zoom Lite 3 Tennis Shoes</name>
+		<brand>Nike</brand>
+		<size>8, 8.5, 9, 10, 10.5, 11, 12</size>
+		<description>At 1st glance, the Nike Zoom Court Lite 3 looks like a classic tennis shoe. Look closer and you’ll find that it’s anything but. With a springy Zoom Air unit, grippy outsole and an incredibly comfortable, padded collar, it delivers the performance you need to play at your best. We shifted the traditional leather to a cleaner, more minimal finish to help keep you light on your feet.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱3,695.00</origprice>
+		<disprice>₱2,956.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Women's Court Vapor Lite 2 Tennis Shoes</name>
+		<brand>Nike</brand>
+		<size>5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9</size>
+		<description>Simple, but sleek. Subtle yet studded out with playability, speed and support. The Vapor Lite 2 is ready for the court right out of the box and offers comfort for the players who like to do it all. With a familiar, super-comfortable underfoot feeling, they can help you hammer that volley at the net and stay mobile during a long rally with optimal traction. Once your session is complete, it’s comfortable enough to wear walking off the court into wherever your day leads next.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱4,295.00</origprice>
+		<disprice>₱3,092.40</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Waffle Debut Premium Casual Shoes</name>
+		<brand>Nike</brand>
+		<size>8, 8.5, 9, 10, 10.5, 11, 12</size>
+		<description>Retro gets modernized with these sleek sneakers inspired by the Nike Daybreak. The era-echoing design gets a premium upgrade with a wedge midsole for an extra lift. And to top it off, we've kept the classic on the bottom—the tried, true and trusted Waffle outsole.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱4,095.00</origprice>
+		<disprice>₱2,866.50</disprice>
+	</product>
+
+	<product>
+		<name>Nike Women's Court Vision Alta Casual Shoes</name>
+		<brand>Nike</brand>
+		<size> 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9</size>
+		<description>Street fashion meets b-ball authenticity in the distinctly modern and 100% feminine Nike Court Vision Alta. The detailed upper features a collapsable heel for style versatility, chic synthetic leather with tumbled texture and transparent mesh for an airy aesthetic. Its lifted foam midsole feels incredible while keeping the heritage b-ball look.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱3,895.00</origprice>
+		<disprice></disprice>
+	</product>
+
+	<product>
+		<name>Saucony Men's 6000 MOC Casual Shoes</name>
+		<brand>Nike</brand>
+		<size> 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 12</size>
+		<description>We took the Shadow 6000 you know and gave it new life as a Moc. With a full suede upper, iconic Moc stitching, and a soft, gum wrapper sole, it’s half moccasin, half sneaker, and 100% a streetwear game-changer.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱8,095.00</origprice>
+		<disprice>₱5,666.50</disprice>
+	</product>
+
+	<product>
+		<name>Saucony Unisex Shadow 6000 New York Cheesecake</name>
+		<brand>Nike</brand>
+		<size> 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 12</size>
+		<description>From the poppy strawberry design to the graham cracker-inspired sole, this fashion-forward running sneaker will leave you hungry for your next urban adventure.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱8,695.00</origprice>
+		<disprice>₱6,086.50</disprice>
+	</product>
+
+	<product>
+		<name>Nike Women's Air Max Excee Casual Shoes</name>
+		<brand>Nike</brand>
+		<size> 5, 5.5, 6, 6.5, 7, 7.5, 8</size>
+		<description>Inspired by the Nike Air Max 90, the Nike Air Max Excee celebrates a classic through a new lens. Elongated design lines and distorted proportions on the upper elevate an icon into a modern space.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱4,495.00</origprice>
+		<disprice>₱3,236.40</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Renew Elevate 3 Basketball Shoes</name>
+		<brand>Nike</brand>
+		<size>8, 8.5, 9, 10, 10.5, 11, 12</size>
+		<description>Level up your game on both ends of the floor in the Nike Renew Elevate 3. Specifically tuned for 2-way players who want to make an impact offensively and defensively, this shoe helps you optimize your ability with all-game, all-season support and stability. Improved traction and arch support enhance cutting and pivoting, which can make the difference down the stretch.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱4,095.00</origprice>
+		<disprice></disprice>
+	</product>
+
+	<product>
+		<name>Nike Women's Structure 24 Running Shoes</name>
+		<brand>Nike</brand>
+		<size> 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9</size>
+		<description>The Nike Structure 24 has you ready to hit the road. We tested hundreds of runners to design the crash pad under your heel that creates a cushioned, smooth transition from heel to toe. Those insights also created an airy upper with breathability right where you need it.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱4,748.40</origprice>
+		<disprice>₱6,595.00</disprice>
+	</product>
+
+	<product>
+		<name>Nike Men's Air Max Alpha Trainer 5 Training Shoes</name>
+		<brand>Nike</brand>
+		<size>8, 8.5, 9, 9.5, 10, 10.5, 11, 12</size>
+		<description>Finish your last rep with power and rack it with a roar that stuns the gym floor in the Nike Air Max Alpha Trainer 5. Max Air cushioning offers comfortable stability for lifting whether it’s a light or heavy day. A wide, flat base gives you enhanced stability and grip for all kinds of tough workouts without sacrificing style, as you roam from station to station and set to set.</description>
+		<order>3-5 Business Days</order>
+		<origprice>₱4,495.00</origprice>
+		<disprice>₱3,596.00</disprice>
+	</product>
+
+</promo>
+
