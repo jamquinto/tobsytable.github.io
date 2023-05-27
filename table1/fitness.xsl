@@ -71,7 +71,7 @@
 				<section class="table-one">
 					<table border="1" class="table-one">
 						<div class="buttons">
-							<a href="index.html">Go Back</a>
+							<a href="https://jamquinto.github.io/tobsytable.github.io/?fbclid=IwAR2AYblMvwa24ZXxVWy6svpEzagTk3JAGp67shlC2CUEGmJefITaZhXHU50">Go Back</a>
 							<a href="table2/basketball.xml">Next Table</a>
 						</div>
 						<div class="content">
